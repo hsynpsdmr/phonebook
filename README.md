@@ -30,4 +30,4 @@ Kullanıcı, yeni bir kişi oluşturup ad, soy ad, telefon numarası ve profil f
 - Ekrana duyarlı tasarım yapıldı.
 - Görseller önbelleğe alındı.
 - Görsellerin boyutu düşürüldü.
-- Service bulucu eklendi.
+- Servis bulucu eklendi.
